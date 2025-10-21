@@ -1,0 +1,27 @@
+{
+  "name": "odin_homepage",
+  "version": "1.0.0",
+  "description": "Part of The Odin Project curriculum, Homepage is build using knowledge leart in the advanced CSS &amp; HTML course, specifically responsive design and semantic HTML.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "test 1",
+    "deploy": "test 2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smailoujaoura/odin_homepage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/smailoujaoura/odin_homepage/issues"
+  },
+  "homepage": "https://github.com/smailoujaoura/odin_homepage#readme",
+  "dependencies": {
+    "vite": "^7.1.11"
+  }
+}
