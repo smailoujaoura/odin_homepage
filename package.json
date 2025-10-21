@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "test": "test 1",
-    "deploy": "test 2"
+    "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "repository": {
     "type": "git",
